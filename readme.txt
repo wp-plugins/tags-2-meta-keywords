@@ -32,7 +32,7 @@ Dieses Plugin benötigt keinerlei Konfiguration. Es funktioniert einfach. ;)
 ENGLISH:
 1. Copy the Tags 2 Meta Keywords plugin folder into the Wordpress plugin directory (/wp-content/plugins/) or use the plugin manager to install it.
 2. Activate the plugin in the Wordpress backend.
-3. That’s it. It works!
+3. That's it. It works!
 
 
 DEUTSCH:
