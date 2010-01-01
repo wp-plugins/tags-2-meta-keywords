@@ -41,13 +41,14 @@ DEUTSCH:
 - Das wars. Es funktioniert!
 
 == Frequently Asked Questions ==
-
+N/A
 == Screenshots ==
-
+N/A
 == Changelog ==
-
+N/A
 == Upgrade Notice ==
-
+N/A
 == Arbitrary section ==
-
+N/A
 == A brief Markdown Example ==
+N/A
