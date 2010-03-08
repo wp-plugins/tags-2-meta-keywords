@@ -2,7 +2,7 @@
 Contributors: Loaden
 Tags: Tags 2 Meta Keywords, Meta Tags
 Requires at least: 2.3
-Tested up to: 2.9
+Tested up to: 2.9.2
 
 Generates meta keywords automatically from your post tags.
 
@@ -12,8 +12,7 @@ ENGLISH:
 Generates meta keywords automatically from your post tags.
 
 - A single post or page get up to 10 tags as meta keywords.
-- In categorie and archive view you get the 10 most used tags in categorie or archive as meta keywords.
-- On the main page you get the 10 most used tags as meta keywords.
+- In categorie, archive view and main site you get the 10 most used tags in categorie, archive or the main site from the current page as meta keywords.
 
 This plugin doesn't need any configuration. It just works. ;)
 
@@ -22,8 +21,7 @@ DEUTSCH:
 Generiert die Meta Keywords automatisch aus deinen Artikel Schlagworten.
 
 - Ein einzelner Artikel oder eine Seite hat bis zu 10 Schlagworte als Meta Keywords.
-- In der Kategorie und Archiv Ansicht werden bis zu 10 der meistengenutzten Schlagworte in der Kategorie oder dem Archiv als Meta Keywords eingesetzt.
-- Auf der Hauptseite werden die 10 meistgenutzten Schlagworte als Meta Keywords verwendet.
+- In der Kategorie und Archiv Ansicht sowie der Hauptseite werden bis zu 10 der meistengenutzten Schlagworte in der Kategorie, dem Archiv oder Hauptseite von der aktuellen Seite als Meta Keywords eingesetzt.
 
 Dieses Plugin benötigt keinerlei Konfiguration. Es funktioniert einfach. ;) 
 
@@ -40,15 +38,10 @@ DEUTSCH:
 - Aktiviere das Plugin im Wordpress Backend.
 - Das wars. Es funktioniert!
 
-== Frequently Asked Questions ==
-N/A
-== Screenshots ==
-N/A
+
 == Changelog ==
-N/A
-== Upgrade Notice ==
-N/A
-== Arbitrary section ==
-N/A
-== A brief Markdown Example ==
-N/A
+1.1:
+- You get the 10 most used tags on the current page of main site as keywords.
+
+1.1:
+- Es werden nun die 10 meist genutzten Keywords der aktuellen Seite der Hauptseite verwendet.
